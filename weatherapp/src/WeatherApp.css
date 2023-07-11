@@ -1,0 +1,52 @@
+/*.App {
+    text-align: center;
+    width: 100%;
+    padding: 100px;
+    margin: 0;
+}*/
+
+.weather-app{
+    color:black;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 16px;
+    font-weight:bolder;
+    text-align: center;
+    padding-top: 220px;
+  }
+
+  /* OutputBox */
+.weather-data {
+    border: 10px solid #ccc;
+    
+    padding-right: 100px;
+    padding-top:50px;
+    padding-bottom: 50px;
+    background-color:beige;
+    background-size:100px;
+    width: 400px;
+    padding-left: 100px;
+    float:none;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+
+  .Button {
+    font-size: 16px;
+    padding: 10px 20px;
+
+  }
+  
+  .Form {
+    width: 300px;
+  }
+  
+  
+.Home{
+  color:black;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 50px;
+    font-weight:bolder;
+    text-align: center;
+    padding-top: 250px;
+}
+
