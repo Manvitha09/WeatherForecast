@@ -1,0 +1,13 @@
+body {
+    background-image: url('/Users/manvithachikoti/Desktop/Practice1/weatherapp/public/images/2075695.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200% auto;
+  }
+
+ 
+.body{
+  font-style:italic;
+  font-family:'Times New Roman', Times, serif;
+}
